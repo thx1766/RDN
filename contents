@@ -1,29 +1,27 @@
-Rutgers Distribution Network
+Rutgers Distribution Network:
+  Portal through which Rutgers servers cache content from etextbooks and research journals
+  
   website for HTTP access
-  interface to desktop clients to sync or search local repositories (search a local index)
-  transfer content with bit torrent
+  RESTful interface to desktop clients to sync or search local repositories (search a local index)
+  RESTful mobile app data transmission interface
+  (non-mobile) content transfer with bit torrent
 
-Classroom materials
-  video lectures
+Basic goals:
+  Integrate with Sakai
+  Integrate with my.rutgers
+  
+extension of sakai Digital Classroom
+  video lectures (recorded and streamed live)
   lecture slides
-  class notes
-
-Digital Classrooms
-  online notes
+  notes
   online exams
   online quizzes
   online assignment submission
-
-Recorded Video Lectures
 
 Published Content
   Textbooks
   Scientific papers
   Research Journals Rutgers has electronic access to
-  
-Portal through which Rutgers servers cache content from etextbooks and research journals
 
-internet 2
-
-Integrate with Sakai
-Integrate with my.rutgers
+possible long term
+  internet 2
